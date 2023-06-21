@@ -202,4 +202,8 @@ a{
     h1{
         line-height: 1.5rem;
     }
+    .recent-section-head{
+        font-size: 2rem;
+    }
+    
 }
